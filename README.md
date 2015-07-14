@@ -1,0 +1,1 @@
+# sublime-gettext-syntax-highlight
