@@ -177,14 +177,6 @@ Create meta scope for each entry
 			<key>name</key>
 			<string>comment.line.number-sign.previous.po</string>
 		</dict>
-		<dict>
-			<key>comment</key>
-			<string>a line that does not begin with # or ". Could improve this regexp</string>
-			<key>match</key>
-			<string>^[^#"].+$</string>
-			<key>name</key>
-			<string>invalid.illegal.po</string>
-		</dict>
 	</array>
 	<key>scopeName</key>
 	<string>source.po</string>
